@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://gecgithub01.walmart.com/Y0C02NR/React-Test-App",
+  "homepage" : "http://yashchauhan28.github.io/temp-react",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
